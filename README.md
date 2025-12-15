@@ -36,6 +36,10 @@ The analysis applies Python-based data cleaning, PostgreSQL KPI computation, and
 - Power BI dashboard
 - Final analytical report
 
+  <img width="1125" height="635" alt="image" src="https://github.com/user-attachments/assets/6c6d2970-303a-409f-9996-70f533fe1d68" />
+
+  
+
 ## Author
 Muddassir Mushtaq Mulla  
 AIFF D-License Coach | Data Analyst
